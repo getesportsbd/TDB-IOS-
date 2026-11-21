@@ -1,0 +1,6 @@
+{
+  "name": "TDB iOS Experience",
+  "description": "A polished Android home experience and utility suite inspired by modern iPhone aesthetics, featuring Dynamic Island, Control Center, App Library, widgets, lock screen, and system shortcuts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
